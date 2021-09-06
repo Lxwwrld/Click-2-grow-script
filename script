@@ -2,7 +2,7 @@
 
 --game = https://www.roblox.com/games/2726456994/Click-to-grow-UPDATED
 
-getgenv().farmer = false;
+getgenv().farmer = true;
 
 while wait(0) do
     if getgenv().farmer == true then
